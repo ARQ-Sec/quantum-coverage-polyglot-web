@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "package.json dependency": "1.0.0",
+    "xml-crypto": "1.0.0",
+    "xml-encryption": "1.0.0",
+    "samlify": "1.0.0",
+    "passport-saml": "1.0.0"
+  }
+}
