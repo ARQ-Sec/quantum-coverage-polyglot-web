@@ -1,0 +1,7 @@
+{
+  "name": "coverage-context",
+  "version": "1.0.0",
+  "engines": {
+    "node": "5.7"
+  }
+}
